@@ -45,7 +45,9 @@ I am a software developer. I specialize in building mobile applications using Fl
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </span>
 
-
+<h4> GitHub Stats: </h4>
+   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ehsankkk1&theme=react&line_height=40&hide=css"/> </a>
+   
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://www.facebook.com/ihssan.abourshaed" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="EhsanAbourshaed"  /></a>
 <a href="https://www.linkedin.com/in/ehsan-abourshaid-29438622b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="EhsanAbourshaed" /></a>
