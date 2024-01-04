@@ -2,11 +2,11 @@
 
 I am a software developer. I specialize in building mobile applications using Flutter and Node Js.
 
-- 🌱 I’m currently learning Nest.js.
+- 🌱 I’m currently learning Laravel.
 - 👯 I’m looking to collaborate on Mobile Development Related Projects .
-- 🤖 4th Year Software Engineering Student.
-- 🥅 2023 Goals: To be profficient in Nest.js 
-- ⚡ Fun fact: I love cats and playing video games.
+- 🤖 5th Year Software Engineering Student.
+- 🥅 2024 Goals: To be profficient in Laravel
+- ⚡ Fun fact: I love cats .
 
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
